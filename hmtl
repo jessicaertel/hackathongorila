@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AUXILIO-CONSULTOR</title>
+</head>
+<body>
+
+<h1>T[itulo</h1>
+<p>Parágrafo</p>
+
+<form>
+<p>Pra que tipo de investimento deseja auxilio?</p>
+*/ setlist <button #bchoite><ul>
+  <li #li1>Tesouro Direto</li>
+  <li>CDB</li>
+  <li>Poupança</li>
+</ul></button>
+
+*/get.from.DB
+if #bchoice = #li1 then
+
+</form>
+
+</body>
+</html>
